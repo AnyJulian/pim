@@ -1,0 +1,15 @@
+{
+  "short_name": "GameWise",
+  "name": "GameWise comparateur",
+  "icons": [
+
+    {
+      "src": "logo.png",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
